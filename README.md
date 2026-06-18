@@ -23,7 +23,7 @@ pip install pandas openpyxl
 2. Go to **Settings > Accounts Center > Your information and permissions > Download your information**.
 3. Choose **Download or transfer information**.
 4. Select your Instagram profile and choose **Some of your information**.
-5. Select **Followers and following**.
+5. Select **Followers and following** ONLY ⚠️.
 6. **Crucial:** Set the format to **JSON** and create the file.
 
 **Step 2: Run the Script**
